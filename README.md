@@ -2,7 +2,13 @@
 
 Backend
 
-setup the node js and express js for the backend... cmd: 1. npm init -y (for package.json) 2. npm i express mongoose dotenv cors 3. npm install @clerk/express @arcjet/node @arcjet/inspect
+setup the node js and express js for the backend... 
+cmd: 
+1. npm init -y (for package.json) 
+2. npm i express mongoose dotenv cors 
+3. npm install @clerk/express @arcjet/node @arcjet/inspect
+
+
 Mobile
 
 Expo is a framework and platform built on top of React Native that makes it much easier to build mobile apps for iOS, Android, and the web with a single codebase.
@@ -10,6 +16,8 @@ Expo is a framework and platform built on top of React Native that makes it much
 cmd:
 
 npx create-expo-app@latest . (. means it will initiate the app in the current folder) - ()it give the app folder boilerplate
+
+
 Backend
 
 setup all the files required
